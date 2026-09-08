@@ -1,0 +1,7 @@
+{
+  "name": "contracts-ai",
+  "version": "0.1.0",
+  "description": "AI domain event contracts and shared inference types for MuxCore",
+  "capabilities": ["contracts.ai"],
+  "roles": ["contracts"]
+}
